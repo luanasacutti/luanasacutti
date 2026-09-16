@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**, com interesse em desenvolvimento de software e tecnologia.
 
-💻 Atualmente desenvolvo projetos acadêmicos e pessoais para aprimorar meus conhecimentos em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento.
+💻 Desenvolvo projetos acadêmicos e pessoais para aprimorar meus conhecimentos em programação, desenvolvimento de sistemas, desenvolvimento web e boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -14,16 +14,24 @@ Também possuo experiência com **Godot Engine e GDScript** no desenvolvimento d
 
 ## 🚀 Projetos em destaque
 
-### 🌙 Vilões da Noite
+### 🕒 [Escalas Ponto DevOps](https://github.com/luanasacutti/escalas-ponto-devops)
+
+Sistema web desenvolvido para gerenciamento de escalas e controle de ponto, utilizando **PHP**.
+
+### 🐾 [PetControl](https://github.com/luanasacutti/PetControl)
+
+Projeto desenvolvido em **C**, aplicando conceitos de programação, estruturas de dados e organização de informações.
+
+### 🌙 [Vilões da Noite](https://github.com/luanasacutti/Viloes-da-Noite)
+
 Jogo 2D de ação e terror desenvolvido em equipe utilizando **Godot Engine e GDScript**.
 
-### 🐾 PetControl
-Projeto desenvolvido em **C**, aplicando conceitos de programação e organização de dados.
+### 💬 [Chatbot](https://github.com/luanasacutti/chatbot)
 
-### 💬 Chatbot
-Aplicação desenvolvida em **Python e Tkinter**, com funcionalidades relacionadas a IMC, necessidades calóricas e acompanhamento de consultas.
+Aplicação desenvolvida em **Python e Tkinter**, com funcionalidades para cálculo de IMC, necessidades calóricas e acompanhamento de consultas.
 
-### 📅 Sistema de Agendamento
+### 📅 [Sistema de Agendamento](https://github.com/luanasacutti/SistemaAgendamentoDenguinho)
+
 Sistema desenvolvido em **Java**, voltado para gerenciamento e agendamento.
 
 ## 📚 Atualmente estudando
