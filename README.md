@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, eu sou a Luana! 👋
 
-<!--
-**luanasacutti/luanasacutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Ciência da Computação**, com interesse em desenvolvimento de software e tecnologia.
 
-Here are some ideas to get you started:
+💻 Atualmente desenvolvo projetos acadêmicos e pessoais para aprimorar meus conhecimentos em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,php,html,css,js,git,github,vscode" />
+</p>
+
+Também possuo experiência com **Godot Engine e GDScript** no desenvolvimento de jogos 2D.
+
+## 🚀 Projetos em destaque
+
+### 🌙 Vilões da Noite
+Jogo 2D de ação e terror desenvolvido em equipe utilizando **Godot Engine e GDScript**.
+
+### 🐾 PetControl
+Projeto desenvolvido em **C**, aplicando conceitos de programação e organização de dados.
+
+### 💬 Chatbot
+Aplicação desenvolvida em **Python e Tkinter**, com funcionalidades relacionadas a IMC, necessidades calóricas e acompanhamento de consultas.
+
+### 📅 Sistema de Agendamento
+Sistema desenvolvido em **Java**, voltado para gerenciamento e agendamento.
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de Software
+- Java
+- Desenvolvimento Web
+- Estruturas de Dados
+- Banco de Dados
+- Git e GitHub
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-profissional?style=for-the-badge&logo=linkedin)](COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI)
