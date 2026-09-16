@@ -37,4 +37,4 @@ Sistema desenvolvido em **Java**, voltado para gerenciamento e agendamento.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-profissional?style=for-the-badge&logo=linkedin)](COLOQUE-SEU-LINK-DO-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-profissional?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luanasacutti/)
